@@ -1,7 +1,7 @@
 # Pocket Tanks
 
 ## About:
-
+<br>
 > This is a multiplayer game(2 people)
 <br>
 > The aim is to reduce the health of the opponent untill the opponent dies or chances run out
@@ -26,7 +26,7 @@
 <br>
 
 ## Controls:
-
+<br>
 > Use 'D'for moving right
 <br>
 > Use 'A' for moving left
