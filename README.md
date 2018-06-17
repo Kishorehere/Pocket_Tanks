@@ -41,4 +41,4 @@
 <br>
 > Use 'C' to switch between the two weapons
 <br>
-> **Show no Mercy!**
+> Show no Mercy!
